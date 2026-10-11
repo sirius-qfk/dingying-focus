@@ -1,0 +1,130 @@
+{
+  "version": "9.4",
+  "tree": "52e68688b68bfaeba4af4cbf2cb702aa35a541a8",
+  "reviewed": "2026-10-11",
+  "clientVerified": false,
+  "originalControlsRequired": true,
+  "privateIntegration": true,
+  "sources": [
+    {
+      "path": "EllesmereUIActionBars/EllesmereUIActionBars.lua",
+      "cacheFile": "AB94.lua",
+      "sha": "c1f4f0335f190adafa509ac384089331f7dbce04"
+    },
+    {
+      "path": "EllesmereUIOptions/ActionBars_Options/BarAppearance_Options.lua",
+      "cacheFile": "ABAppearance94.lua",
+      "sha": "22605dd0fa7072c495a95f47f41d7cc944aeb8ec"
+    },
+    {
+      "path": "EllesmereUIActionBars/EUI_ActionBars_Apply.lua",
+      "cacheFile": "ABApply94.lua",
+      "sha": "8807f3f9ed11ca463c54a66869de8e91311f0483"
+    },
+    {
+      "path": "EllesmereUIOptions/ActionBars_Options/BarVisibilityLayout_Options.lua",
+      "cacheFile": "ABLayout94.lua",
+      "sha": "a03058c491e9d64ee976aeee4f6bfe7d49cf3a06"
+    },
+    {
+      "path": "EllesmereUIOptions/EUI_ActionBars_Options.lua",
+      "cacheFile": "ABOptions94.lua",
+      "sha": "aa40b4530b7c460ef2868adba558cc1047f13605"
+    },
+    {
+      "path": "EllesmereUICooldownManager/EllesmereUICooldownManager.lua",
+      "cacheFile": "CD94.lua",
+      "sha": "9f43a70563f473562f3ab7b9fe3e683af5b37ef1"
+    },
+    {
+      "path": "EllesmereUICooldownManager/EUI_CDM_Bars.lua",
+      "cacheFile": "CDBars94.lua",
+      "sha": "21d8176a486abe95f7a0307c8eeb72c47eb6dee5"
+    },
+    {
+      "path": "EllesmereUICooldownManager/EUI_CDM_Glows.lua",
+      "cacheFile": "CDGlows94.lua",
+      "sha": "05d84fc2e5fdb8214efee0277c950fe353f4216a"
+    },
+    {
+      "path": "EllesmereUICooldownManager/EUI_CDM_Icons.lua",
+      "cacheFile": "CDIcons94.lua",
+      "sha": "d18595a8e385fb73da80a50be641cd80a6cb85be"
+    },
+    {
+      "path": "EllesmereUICooldownManager/EUI_CDM_Lifecycle.lua",
+      "cacheFile": "CDLifecycle94.lua",
+      "sha": "f280818649d9fa86a75f1ce768110a0b376afbf4"
+    },
+    {
+      "path": "EllesmereUIOptions/EUI_CooldownManager_Options.lua",
+      "cacheFile": "CDOptions94.lua",
+      "sha": "99d4733900d985f8005a2260e4bf406aa381669c"
+    },
+    {
+      "path": "EllesmereUIOptions/CooldownManager_Options/BarsPage_Options.lua",
+      "cacheFile": "CDPage94.lua",
+      "sha": "42b594fcc4b455337a9ea2ebefd7d5b1d55c3776"
+    },
+    {
+      "path": "EllesmereUICooldownManager/EUI_CDM_Rebuild.lua",
+      "cacheFile": "CDRebuild94.lua",
+      "sha": "ef547f99d8898ff4e8eae730808884728edc3b34"
+    },
+    {
+      "path": "EllesmereUICooldownManager/EUI_CDM_Reconcile.lua",
+      "cacheFile": "CDReconcile94.lua",
+      "sha": "69f0f466e69ef220792873fcd526331ac494bf47"
+    },
+    {
+      "path": "EllesmereUICooldownManager/EUI_CDM_Spec.lua",
+      "cacheFile": "CDSpec94.lua",
+      "sha": "67976b6d2338cabc5bb4499e12c79f89dd529d34"
+    },
+    {
+      "path": "EllesmereUICooldownManager/EUI_CDM_Store.lua",
+      "cacheFile": "CDStore94.lua",
+      "sha": "5e23e17039f9c1b98e81fe096a6ed2c3db6a69ca"
+    },
+    {
+      "path": "EllesmereUI.lua",
+      "cacheFile": "Core94.lua",
+      "sha": "3f139ad65ea7fd0326eb607cadf6154cc54921b2"
+    },
+    {
+      "path": "EllesmereUI.toc",
+      "cacheFile": "EUI94.toc",
+      "sha": "39db6d11f78f712389512c798401048fa5e30649"
+    },
+    {
+      "path": "PLUGINS_API.md",
+      "cacheFile": "PLUGINS_API94.md",
+      "sha": "ae07e077b6e2e1121691f5aad21a046e6dbdd3d9"
+    },
+    {
+      "path": "EllesmereUI_Panel.lua",
+      "cacheFile": "Panel94.lua",
+      "sha": "288bfb1b115e02a76f3b8ca965bfafd614643c34"
+    },
+    {
+      "path": "EllesmereUI_Profiles.lua",
+      "cacheFile": "Profiles94.lua",
+      "sha": "60fd02698106a9ff4c8b74dee324bc81245b3379"
+    },
+    {
+      "path": "EllesmereUIOptions/EllesmereUI_Widgets_Rows.lua",
+      "cacheFile": "Rows94.lua",
+      "sha": "81b24e776de5e56b4af349ae22b8d00a46ec918c"
+    },
+    {
+      "path": "EllesmereUI_UICore.lua",
+      "cacheFile": "UICore94.lua",
+      "sha": "ab9822fcbf69f1acf1926358e72825dab6f5e7d7"
+    },
+    {
+      "path": "EllesmereUIOptions/EllesmereUI_Widgets.lua",
+      "cacheFile": "Widgets94.lua",
+      "sha": "8ff241ebce2191f3f384dba73a07a8c28958d243"
+    }
+  ]
+}
