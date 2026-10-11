@@ -1,0 +1,25 @@
+## Interface: 120100
+## Title: EllesmereUI Gradient
+## Notes: Shared visual tiers; versioned EllesmereUI 9.3/9.4 integration (alpha)
+## Author: EUI Gradient Project
+## Version: 0.2.0-alpha
+## OptionalDeps: EllesmereUI, EllesmereUIActionBars, EllesmereUICooldownManager
+## SavedVariables: EllesmereUIGradientDB
+
+Core.lua
+Runtime.lua
+Model.lua
+Bindings.lua
+Journal.lua
+Integrations\EUI\Compatibility.lua
+Integrations\EUI\ActionBars.lua
+Integrations\EUI\Cooldowns.lua
+Integrations\EUI\Elements.lua
+Store.lua
+Engine.lua
+UI\Editor.lua
+UI\Regions.lua
+Integrations\EUI\NativeControls.lua
+Integrations\EUI\SettingsHost.lua
+UI\EUIBridge.lua
+Bootstrap.lua

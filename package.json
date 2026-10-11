@@ -1,0 +1,16 @@
+{
+  "name": "ellesmere-ui-gradient-dev",
+  "version": "0.2.0-alpha",
+  "private": true,
+  "description": "Development-only tests and packaging; Node is not an addon dependency.",
+  "scripts": {
+    "test": "node scripts/test.cjs",
+    "check": "node scripts/check.cjs",
+    "audit:upstream": "node scripts/audit-upstream.cjs",
+    "package": "npm run check && npm test && node scripts/package.cjs"
+  },
+  "devDependencies": {
+    "fengari": "0.1.4",
+    "luaparse": "0.3.1"
+  }
+}
